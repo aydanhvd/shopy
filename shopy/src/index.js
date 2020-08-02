@@ -1,6 +1,8 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import App from './App';
+import 'rsuite/dist/styles/rsuite-dark.css';
+import 'normalize.css';
 import * as serviceWorker from './serviceWorker';
 
 ReactDOM.render(
